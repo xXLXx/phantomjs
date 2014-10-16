@@ -7,10 +7,10 @@
     "webkit"
   ],
   "description": "Headless WebKit with JS API",
-  "homepage": "https://github.com/Obvious/phantomjs",
+  "homepage": "https://github.com/xXLXx/phantomjs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Obvious/phantomjs.git"
+    "url": "git://github.com/xXLXx/phantomjs.git"
   },
   "licenses": [
     {
